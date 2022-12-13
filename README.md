@@ -31,6 +31,7 @@ Full Stack Developer, прошедший обучение по направле�
 *   PostgreSQL, MySQL, MongoDB
 *   Heroku
 *   GitHub
+*   Docker
 
 ### Мои opensource проекты:
 #### С#: 
